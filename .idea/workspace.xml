@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d277f78-7a4f-4530-b8f5-b20616a19e70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/commons/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commons/api/oms.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commons/env.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commons/json.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/http_handler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/grpc_handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/commons/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.work" beforeDir="false" afterPath="$PROJECT_DIR$/go.work" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/orders/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/http_handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/http_handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/tmp/main" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/tmp/main" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +119,7 @@
       <workItem from="1712606621322" duration="107000" />
       <workItem from="1713380882341" duration="102000" />
       <workItem from="1715449962822" duration="9088000" />
-      <workItem from="1715692503566" duration="8776000" />
+      <workItem from="1715692503566" duration="10044000" />
     </task>
     <servers />
   </component>
