@@ -57,7 +57,7 @@ func (h *handler) HandlerCretaeOrders(resp http.ResponseWriter, req *http.Reques
 func validateItems(items []*pb.ItemsWithQuatity) error {
 
 	if len(items) == 0 {
-		return errors.New("items must have at least one item")
+		return commons.ErrNoItems
 	}
 
 	for _, item := range items {

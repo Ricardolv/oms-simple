@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d277f78-7a4f-4530-b8f5-b20616a19e70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/commons/errors.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/http_handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/http_handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/tmp/build-errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/tmp/build-errors.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/tmp/main" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/tmp/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/grpc_handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/orders/grpc_handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/orders/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/orders/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/tmp/main" beforeDir="false" afterPath="$PROJECT_DIR$/orders/tmp/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/types.go" beforeDir="false" afterPath="$PROJECT_DIR$/orders/types.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +126,7 @@
       <workItem from="1712606621322" duration="107000" />
       <workItem from="1713380882341" duration="102000" />
       <workItem from="1715449962822" duration="9088000" />
-      <workItem from="1715692503566" duration="10044000" />
+      <workItem from="1715692503566" duration="11438000" />
     </task>
     <servers />
   </component>
